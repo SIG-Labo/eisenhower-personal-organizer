@@ -5,6 +5,9 @@ An organizer written in Python, utilizing the Eisenhower Method. JSON is employe
 
 This is a straightforward organizer written in Python, designed for individuals who struggle with organizing long-term and medium-term tasks.
 
+The AES version has been included with the source code. 
+
+
 Functions:
 Brain Dump: Allows the spawning of fresh new ideas.
 Separate Tasks: Initiates the matrix.

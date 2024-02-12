@@ -1,3 +1,13 @@
+ 
+"""
+Eisenhower-Matrix Personal Planner 3.0
+Copyright (c) 2024 Peter De Ceuster
+https://peterdeceuster.uk/
+Free to distribute
+Distributed under the FPA General Code License
+"""
+
+
 import tkinter as tk
 from tkinter import simpledialog, messagebox
 import shutil
@@ -11,7 +21,7 @@ class DailyPlannerGUI:
         self.root.title("Eisenhower-Matrix Personal Planner 3.0 - Welcome")
         self.root.state('zoomed')
         self.root.configure(bg='lightblue')
-
+          
         # Play chimes sound
         # winsound.PlaySound("SystemHand", winsound.SND_ALIAS)
 

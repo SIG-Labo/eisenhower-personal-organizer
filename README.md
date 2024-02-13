@@ -17,7 +17,7 @@ List Tasks: Displays tasks.
 Remove Tasks: Deletes tasks.
 Clear All Tasks: Removes all tasks.
 Add Your Goalset to Any Task: Attach your goals to any task.
-Keep Track of new ideas and their outlines. 
+Keep Track of new ideas and their outlines.(this feature resets each session)
 
  Installation: compile the source into your own exe using pyinstaller --onefile --windowed  source.py
  or use the exe from the repository 

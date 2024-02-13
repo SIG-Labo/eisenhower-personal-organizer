@@ -17,7 +17,7 @@ def main():
     process.wait()
 
     # Launch E-Matrix 3.0.exe after unlocksoft.py has exited
-    os.startfile("E-Matrix 3.0.exe")
+    os.startfile("E-Matrix 3.2.exe")
 
 if __name__ == "__main__":
     main()

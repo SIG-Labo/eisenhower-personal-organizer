@@ -1,5 +1,5 @@
 # eisenhower personal organizer 
-Eisenhower Personal Organizer v 3.0
+Eisenhower Personal Organizer v 3.2
 
 This is a straightforward organizer written in Python, designed for individuals who struggle with organizing long-term and medium-term tasks.
 
@@ -17,18 +17,20 @@ List Tasks: Displays tasks.
 Remove Tasks: Deletes tasks.
 Clear All Tasks: Removes all tasks.
 Add Your Goalset to Any Task: Attach your goals to any task.
+Keep Track of new ideas and their outlines. 
 
  Installation: compile the source into your own exe using pyinstaller --onefile --windowed  source.py
  or use the exe from the repository 
-
+ Add some data to Brain Dump and restart the program to get your workflow going.
+ 
 (c) Peter De Ceuster 2024
 Software Distribution Notice: https://peterdeceuster.uk/doc/code-terms 
 This software is released under the FPA General Code License.
  
   
- virustotal for the exe: MD5 704b3e328c628bdf31cb7606bf13980c
+ virustotal for the exe: MD5 34fc77178504f0145be049428789c93b
  (5 false positives and 65 passed)
-https://www.virustotal.com/gui/file/8b35e6d5d4877af5340ceeec046e2b44899c80bbf8a9595a907b575f299c99f0/detection
+https://www.virustotal.com/gui/file/fa628738993825269cb79ba35970038dfacc6f2ef6a5b33ccd55bf03ac2528bc/details
  
  
  

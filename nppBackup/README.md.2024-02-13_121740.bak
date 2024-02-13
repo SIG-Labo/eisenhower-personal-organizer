@@ -7,18 +7,16 @@ An organizer written in Python, utilizing the Eisenhower Method. JSON is employe
  
 The AES version has been included with the source code for demonstration purposes. 
 
-The Eisenhower Method involves the screening of data:
-
 Functions:
 Brain Dump: Allows the spawning of fresh new ideas.
 Separate Tasks: Initiates the matrix.
 Morning Routine: Create your routine.
-Trim List: Here you can trim the list, maximum five will be kept. Deleted ones can be recovered.
+Trim List: View previous trimmed items.
 Day Review: Review your day.
 List Tasks: Displays tasks.
 Remove Tasks: Deletes tasks.
 Clear All Tasks: Removes all tasks.
-Add Your Goalset to Any Task: Attach your goals to any task. The goals are retrievable.
+Add Your Goalset to Any Task: Attach your goals to any task.
 Keep Track of new ideas and their outlines.(this feature resets each session)
 
  Installation: compile the source into your own exe using pyinstaller --onefile --windowed  source.py

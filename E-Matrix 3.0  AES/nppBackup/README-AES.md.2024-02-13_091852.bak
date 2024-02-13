@@ -7,10 +7,9 @@ An organizer written in Python, utilizing the Eisenhower Method. JSON is employe
 
 This is the AES Version. use the launcher and enter a pass, the data and backup file will decrypt on launch and encrypt on exit.
 To provide some level of Transparency for audit reasons, the AES encryption method can be viewed by accessing the two python scripts.
-If you prefer AES with simultaneous backup functionality, an example (locksoft-backups) has been provided in the source code folder.
 
 Please note, the compiled exe was provided for demonstration purposes and has strict data security. It uses two python scripts, the data hence will becomes inaccessible when incorrect passwords are used. 
-Adjust the code and recompile to create a less strict environment or use the provided script in the sourcefolder, supporting both backups and AES. 
+Adjust the code and recompile to create a less strict environment. 
 
  Installation: compile the source into your own exe using pyinstaller --onefile --windowed  source.py
  or use the exe from the repository
